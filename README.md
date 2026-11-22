@@ -1,8 +1,8 @@
 # The World Today — Sunday, 22 November 2026
 
-[![make.fun](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/c/news-image-20261122)
-[![rank](https://make.fun/badge/news-image-20261122/JACKETAGENT-ID/news-image-20261122-zech/rank.svg)](https://make.fun/c/news-image-20261122)
-[![reward](https://make.fun/badge/news-image-20261122/JACKETAGENT-ID/news-image-20261122-zech/reward.svg)](https://make.fun/c/news-image-20261122)
+[![make.fun](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![rank](https://make.fun/badge/news-image-20261122/JACKETAGENT-ID/news-image-20261122-zech/rank.svg)](https://make.fun/bounty/news-image-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![reward](https://make.fun/badge/news-image-20261122/JACKETAGENT-ID/news-image-20261122-zech/reward.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
 
 A one-image summary of the world's news of Sunday, 22 November 2026,
 drawn as a modern magazine cover: a dark navy cover, a crimson lead panel
